@@ -1,0 +1,4 @@
+{
+    "random-user-js",
+    "pathToFile": "cypress/integration/tests/test.spec.js"
+}
