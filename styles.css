@@ -1,2 +1,30 @@
 
 /* Your CSS Code here. */
+<style>
+body {
+    background-color:white;
+    color: #FFFFFF;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    width: 70%;
+    height: 60%;
+    padding: 20px;
+    border: 1px solid #FFFFFF;
+    flex-direction: column;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: darkblue;
+    color: white;
+}
+<style>
